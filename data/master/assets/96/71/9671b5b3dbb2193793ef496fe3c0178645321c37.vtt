@@ -1,0 +1,159 @@
+WEBVTT
+
+00:00:03.752 --> 00:00:04.809
+From the Main menu,
+
+00:00:04.809 --> 00:00:09.196
+select the Admin item to open the Administration Home page.
+
+00:00:09.196 --> 00:00:13.688
+To access a report, select Analytics from
+the header in your Admin profile in Saba
+
+00:00:13.688 --> 00:00:18.127
+or select the Analytics Admin hyperlink in the middle of the page.
+
+00:00:18.127 --> 00:00:21.457
+The reports are grouped by specific categories.
+
+00:00:21.457 --> 00:00:24.892
+You will see them by selecting the drop-down menu.
+
+00:00:24.892 --> 00:00:27.376
+The options are as follows:
+
+00:00:27.376 --> 00:00:37.841
+All, Recently Viewed, Favorite, My Reports, Built-in Reports, Scheduled.
+
+00:00:37.841 --> 00:00:41.118
+You can set a default category for your convenience by selecting
+
+00:00:41.118 --> 00:00:45.081
+the “Set Default” hyperlink located to the right of the category.
+
+00:00:45.081 --> 00:00:50.737
+When you select a category, Analytics displays all available reports for that category.
+
+00:00:50.737 --> 00:00:55.863
+Please note that if a category shows the number 0, no report will be displayed.
+
+00:00:55.863 --> 00:00:59.351
+I recommend setting “All” as your default option.
+
+00:00:59.351 --> 00:01:05.376
+You can also search by “Report Name” or “Description” in the search field next to the dropdown category field.
+
+00:01:05.376 --> 00:01:07.702
+You can also enter a keyword in the search field,
+
+00:01:07.702 --> 00:01:11.613
+and the system will display all reports containing that keyword.
+
+00:01:11.613 --> 00:01:17.585
+In this example, we want to view a class completion report,
+so we will enter the keyword “class”.
+
+00:01:17.585 --> 00:01:23.293
+All reports containing the word “class” are now displayed, with the entered keyword highlighted.
+
+00:01:23.293 --> 00:01:28.419
+Once you have located the required report,
+select the title to run the report.
+
+00:01:28.419 --> 00:01:32.806
+Enter the required information requested in each mandatory field.
+
+00:01:32.806 --> 00:01:37.404
+Each report has their own mandatory fields based on the type of report.
+
+00:01:37.404 --> 00:01:41.421
+Mandatory fields are indicated by a red asterisk.
+
+00:01:41.421 --> 00:01:43.905
+We will type the Class ID.
+
+00:01:43.905 --> 00:01:45.807
+Once the window appears on the screen,
+
+00:01:45.807 --> 00:01:50.564
+select the radio button next to the class ID, as shown in the example.
+
+00:01:50.564 --> 00:01:52.678
+You can select Run to execute the report
+
+00:01:52.678 --> 00:01:56.695
+or you can also select Save and Run to save your selected filters.
+
+00:01:56.695 --> 00:02:00.183
+The filtered report results will display; these filters will be applied
+
+00:02:00.183 --> 00:02:04.887
+next time you run the same report.  I will select Run.
+
+00:02:04.887 --> 00:02:10.119
+This action may take a few seconds
+or minutes, depending on the size of the report.
+
+00:02:10.119 --> 00:02:15.563
+Use the scroll bar down and from left to right of the report window
+to view more information.
+
+00:02:15.563 --> 00:02:20.002
+Select the Show or hide column setting icon located on the left side and bottom of the page
+
+00:02:20.002 --> 00:02:25.076
+or select the title of the column to modify the sorting order (ascending or descending).
+
+00:02:25.076 --> 00:02:28.458
+Select the Export icon on the upper on the right side of the page,
+
+00:02:28.458 --> 00:02:32.633
+it is represented by an underlined arrow pointing downwards.
+
+00:02:32.633 --> 00:02:36.122
+This will open the “Download Report” pop up window. 
+
+00:02:36.122 --> 00:02:41.460
+Select the format desired for the report export (CSV, PDF or Excel).
+
+00:02:41.460 --> 00:02:43.627
+I recommend using the Excel format,
+
+00:02:43.627 --> 00:02:46.745
+as it allows you to filter through the columns.
+
+00:02:46.745 --> 00:02:51.607
+Selecting the Data Only checkbox will extract the report without the header. 
+
+00:02:51.607 --> 00:02:55.095
+Select Download to download a copy of the report.
+
+00:02:55.095 --> 00:02:58.161
+Once the file has been downloaded, a window will open saying
+
+00:02:58.161 --> 00:03:03.129
+“XLSX file for Class Completion Subscription Report is now available”.
+
+00:03:03.129 --> 00:03:07.145
+The name will change depending on the report you selected.
+
+00:03:07.145 --> 00:03:09.365
+Select this sentence.
+
+00:03:09.365 --> 00:03:14.544
+Select the Open file hyperlink in the “Downloads” window on the top
+right of the screen. 
+
+00:03:14.544 --> 00:03:17.081
+Depending on the language of your profile setup,
+
+00:03:17.081 --> 00:03:20.622
+you will see these terms in the language of your profile.
+
+00:03:20.622 --> 00:03:24.322
+Once your file is open, you can save it and close it.
+
+00:03:24.322 --> 00:03:32.778
+In Saba, select the Back hyperlink on the top left side of the page
+to come back to the Report list.
+

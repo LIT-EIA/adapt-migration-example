@@ -1,0 +1,168 @@
+WEBVTT
+
+00:00:03.750 --> 00:00:09.333
+Continuing on the Define Class page,
+go to the Pricing Information section.
+
+00:00:09.333 --> 00:00:15.708
+For this section, we will leave all information as-is
+since none of our products have fees in Saba.
+
+00:00:15.708 --> 00:00:24.583
+Under the Registration Information section: Identify how many registrations the class delivery can accommodate.
+
+00:00:24.583 --> 00:00:29.166
+Type in the Maximum participants in the Max Count field.
+
+00:00:29.166 --> 00:00:36.041
+Select the Pick Vendor icon to view the Vendor pop up Window
+and select Search to populate a vendor list.
+
+00:00:36.041 --> 00:00:41.208
+The Vendor identifies which virtual platform
+will be used for the session.
+
+00:00:41.208 --> 00:00:46.666
+Select the Vendor that will be used
+as the Virtual platform for this session.
+
+00:00:46.666 --> 00:00:49.958
+Once the Vendor is selected, the pop-up window will close
+
+00:00:49.958 --> 00:00:54.166
+and bring you back to the Registration Information section.
+
+00:00:54.166 --> 00:01:00.708
+Select the Pick Customer Service Rep icon to open
+the Search Person, Internal pop-up window.
+
+00:01:00.708 --> 00:01:07.041
+The Customer Service Rep is responsible
+for the details and content related to this class.
+
+00:01:07.041 --> 00:01:12.416
+Please note that this may differ from the course owner,
+as it may be a different team in charge of deliveries
+
+00:01:12.416 --> 00:01:19.500
+and this field will be displayed on the Saba notification
+that the learner receives when they register to a class.
+
+00:01:19.500 --> 00:01:24.208
+A GD mailbox is required to be added as point of contact.
+
+00:01:24.208 --> 00:01:29.916
+Add the beginning of the email address
+in the First Name field and select Search.
+
+00:01:29.916 --> 00:01:32.583
+In the People section, under the Select column,
+
+00:01:32.583 --> 00:01:35.708
+select the mailbox to be added.
+
+00:01:35.708 --> 00:01:38.833
+Once it has been selected,
+the pop-up window will close,
+
+00:01:38.833 --> 00:01:43.416
+and it will bring you back to the Registration Information section.
+
+00:01:43.416 --> 00:01:49.000
+For the section “Allow Drop”,
+you will have to select one of the following options:
+
+00:01:49.000 --> 00:01:52.250
+By default, it is set to Yes.
+
+00:01:52.250 --> 00:01:56.291
+Yes, this class can be dropped anytime after registration, or;
+
+00:01:56.291 --> 00:02:00.083
+No, this class cannot be dropped after registration.
+
+00:02:00.083 --> 00:02:04.125
+Under the Availability Information section:
+
+00:02:04.125 --> 00:02:10.041
+Leave the Display for Call Centre and Display for learner unchecked, as the Learning Infrastructure Team will determine
+
+00:02:10.041 --> 00:02:16.500
+with the Saba administrator if the options should be enabled
+to display the class in the Saba catalog.
+
+00:02:16.500 --> 00:02:20.208
+Add a date in the Open Enrollment date field.
+
+00:02:20.208 --> 00:02:23.000
+Add a date in the Enrollment close on field, and;
+
+00:02:23.000 --> 00:02:30.291
+Leave the Class Completion Reminder after
+End Date (days) field to 14, set automatically by the system.
+
+00:02:30.291 --> 00:02:33.791
+Under the Meetings Details section:
+
+00:02:33.791 --> 00:02:40.375
+Keep the VLE Provider field as
+Non Integrated VLE Provider – it must not be modified.
+
+00:02:40.375 --> 00:02:44.083
+If you do not add the Guest attend URL hyperlink in Saba,
+
+00:02:44.083 --> 00:02:48.458
+you must add “To follow” in each of the remaining fields.
+
+00:02:48.458 --> 00:02:53.625
+When learners receive their registration confirmation,
+this will be included in the notification
+
+00:02:53.625 --> 00:02:58.458
+and will let learners know that
+the link to the session will be sent later.
+
+00:02:58.458 --> 00:03:05.791
+If you have the virtual URL and you want to add it,
+you can add the URL in the Guest Attend URL field.
+
+00:03:05.791 --> 00:03:13.833
+Select Finish at the bottom of the page to save your class information, the class ID will then be generated automatically.
+
+00:03:13.833 --> 00:03:19.875
+After saving your class information, the class ID
+is generated and can be found next to the Class ID field
+
+00:03:19.875 --> 00:03:24.041
+in the Class Details section and at the end of the class title.
+
+00:03:24.041 --> 00:03:27.708
+If a class description has been added, you must Internationalize it
+
+00:03:27.708 --> 00:03:33.333
+by selecting the Internationalize
+icon located on the upper right of the main page.
+
+00:03:33.333 --> 00:03:36.958
+The translate pop-up window will display.
+
+00:03:36.958 --> 00:03:43.625
+In the Locale field, use the drop-down arrow
+to select the other official language you must translate.
+
+00:03:43.625 --> 00:03:46.833
+In the Description field, erase the original description
+
+00:03:46.833 --> 00:03:51.333
+and type the translated text in the other official language.
+
+00:03:51.333 --> 00:03:57.208
+In the example, a description was added,
+I will erase it and type it in French.
+
+00:03:57.208 --> 00:04:00.541
+Select Save to add the translation.
+
+00:04:00.541 --> 00:04:04.625
+The Main tab is now complete.
+
